@@ -1,6 +1,6 @@
 # Dragon Lord Studio - Simple one page Website
 
-![preview](./.Assets/preview.png)
+![preview](./.Assets/pagepreview.png)
 >[Link](https://gimenesfranco.github.io/GamesDevelopedPage/)
 
 >Technologies
